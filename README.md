@@ -1,4 +1,4 @@
-# Climate-Change-Temperatures-and-Precipitation
+# Climate Change: Temperatures and Precipitation
 
 Perform Data Visulizations to make enquires aboout the change of climates among different regions
 ![Screen Shot 2023-01-31 at 10 26 31 AM](https://user-images.githubusercontent.com/98563830/215865267-9abd9d61-b06f-4c2c-b525-ef61b0b1e2c6.png)
