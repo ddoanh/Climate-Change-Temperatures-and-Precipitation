@@ -1,0 +1,102 @@
+AttributeError,'numpy.ndarray' object has no attribute 'num_rows'
+SyntaxError,"unmatched ')' (1446687654.py, line 7)"
+SyntaxError,"invalid syntax (258093002.py, line 3)"
+NameError,name 'citites' is not defined
+NameError,name 'lar' is not defined
+TypeError,distance() missing 2 required positional arguments: 'lat1' and 'lon1'
+ValueError,"('Labels (array([ 44.9258,  44.9258,  46.0261,  46.0261,  44.8664,  44.8664,\n        46.5486,  46.5486,  42.955 ,  42.955 ,  43.1406,  43.1406,\n        43.8789,  43.8789,  43.8789,  43.8789,  44.4983,  40.1764,\n        40.1764,  44.4683,  44.4683,  43.7667,  43.7667,  43.5878,\n        44.3981,  45.4558,  41.2433,  41.2433,  40.4847,  40.4847,\n        40.4847,  40.1936,  40.1936,  40.1936,  42.08  ,  42.08  ,\n        41.5886,  41.5886,  41.5886,  41.5175,  41.5175,  40.9167,\n        40.9167,  47.9428,  47.9428,  46.9253,  46.9253,  43.35  ,\n        43.35  ,  43.1167,  43.1167,  40.7789,  42.9486,  42.9486,\n        42.7431,  42.7431,  40.8292,  40.8292,  40.4728,  40.4728,\n        40.4728,  40.2769,  40.2769,  40.2769,  42.9333,  42.9333,\n        42.9333,  42.9333,  43.1953,  43.1953,  40.6044,  40.6044,\n        41.3103,  41.3103,  41.3103,  41.3103,  41.9856,  41.9856,\n        40.8508,  40.8508,  40.8508,  40.8508,  40.8508,  40.9611,\n        40.9611,  40.9611,  45.5433,  45.5433,  43.9042,  44.8831,\n        44.8831,  44.8831,  48.5614,  46.8369,  46.8369,  42.2347,\n        42.2347,  43.5331,  46.4794,  43.1711,  46.5311,  46.5311,\n        42.7803,  42.7803,  42.7803,  42.7803,  42.8939,  42.8939,\n        42.8939,  42.2314,  42.2314,  42.2314,  42.2706,  42.2706,\n        42.2122,  42.3606,  42.3606,  43.6497,  43.6497,  41.8833,\n        41.8833,  43.1644,  43.1644,  42.5544,  42.5544,  42.3914,\n        42.3914,  42.3978,  42.3978,  41.5339,  41.5339,  41.7072,\n        40.9706,  40.9706,  42.1928,  42.1928,  40.6675,  40.6675,\n        40.6675,  41.4653,  41.4653,  41.4653,  41.4653,  41.4653,\n        41.4653,  41.995 ,  41.995 ,  41.995 ,  41.995 ]), array([ 42.8153,  42.8153,  41.1519,  41.1519,  45.6208,  45.6208,\n        46.7439,  46.7439,  46.7439,  46.2667,  46.2667,  47.6217,\n        47.4444,  47.4444,  40.7781,  40.7781,  42.1469,  42.1469,\n        45.5181,  45.5181,  44.905 ,  45.6906,  45.6906,  44.1278,\n        44.1278,  46.1569,  46.1569,  48.1739,  48.1739,  46.7708,\n        40.9017,  40.9017,  40.8289,  40.2064,  40.2064,  40.2064,\n        40.2064,  42.8783,  41.8706,  41.1214,  41.1214,  46.9208,\n        46.9208,  46.6056,  46.6056,  48.5428,  48.5428,  47.4733,\n        47.4733,  48.2138,  48.2138,  46.3747,  46.3747,  43.5667,\n        43.5667,  41.7803,  41.7803,  40.5175,  40.5175,  40.5175,\n        40.5175,  40.8097]), array([], dtype=float64), array([-108.7261, -108.7261, -104.8061, -104.8061, -122.6572, -122.6572,\n       -117.1086, -117.1086, -117.1086, -119.1167, -119.1167, -117.5281,\n       -122.3139, -122.3139, -111.9694, -111.9694, -121.7242, -121.7242,\n       -122.6894, -122.6894, -123.0011, -118.8528, -118.8528, -123.2206,\n       -123.2206, -123.8825, -123.8825, -103.6367, -103.6367, -100.7603,\n       -117.8081, -117.8081, -115.7886, -100.5914, -100.5914, -100.5914,\n       -100.5914, -100.55  , -103.5931, -100.6694, -100.6694, -114.0925,\n       -114.0925, -111.9636, -111.9636, -109.7633, -109.7633, -111.3822,\n       -111.3822, -106.6213, -106.6213, -117.0156, -117.0156, -116.2406,\n       -116.2406, -124.2367, -124.2367, -122.2986, -122.2986, -122.2986,\n       -122.2986, -124.1603])) contain more than list.', 'Pass just one list of labels.')"
+TypeError,containing() takes 1 positional argument but 3 were given
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+NameError,name 'tmax' is not defined
+ValueError,"label ""Temperature Range"" not in labels ('Date', 'tmax', 'tmin', 'prcp')"
+SyntaxError,"unmatched ')' (821529811.py, line 1)"
+IndentationError,"expected an indented block (914056681.py, line 3)"
+SyntaxError,"invalid syntax (697457099.py, line 2)"
+AttributeError,'_combinable' object has no attribute 'column'
+AttributeError,'_combinable' object has no attribute 'column'
+AttributeError,'_combinable' object has no attribute 'column'
+SyntaxError,"unmatched ')' (3377517.py, line 1)"
+AttributeError,type object 'are' has no attribute 'equal_or_between'
+TypeError,'<=' not supported between instances of 'int' and 'numpy.str_'
+AttributeError,'ellipsis' object has no attribute 'show'
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+TypeError,'<=' not supported between instances of 'int' and 'numpy.str_'
+AssertionError,column length mismatch
+ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+ValueError,too many values to unpack (expected 2)
+ValueError,The column 'Date average' contains non-numerical values. A plot cannot be drawn for this column.
+ValueError,The column 'Date average' contains non-numerical values. A plot cannot be drawn for this column.
+NameError,name 'plot' is not defined
+ValueError,"label ""plot"" not in labels ('Year', 'Date average', 'tmax average', 'tmin average', 'prcp average', 'Month average')"
+ValueError,The column 'Date average' contains non-numerical values. A plot cannot be drawn for this column.
+ValueError,"label ""Period"" not in labels ('Date', 'tmax', 'tmin', 'prcp', 'Year', 'Month')"
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+NameError,name 'citites' is not defined
+ValueError,['tmax average'] is not a label or index
+NameError,name 'citites' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'citites' is not defined
+SyntaxError,"invalid syntax (1747849146.py, line 9)"
+NameError,name 'citites' is not defined
+NameError,name 'citites' is not defined
+AttributeError,'numpy.ndarray' object has no attribute 'num_rows'
+TypeError,column functions must be callable
+ValueError,All labels must exist in the table
+ValueError,All labels must exist in the table
+ValueError,"label ""City"" not in labels ('Year', 'count')"
+SyntaxError,"invalid syntax (1664571971.py, line 3)"
+ValueError,All labels must exist in the table
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+NameError,name 'citites' is not defined
+NameError,name 'citites' is not defined
+NameError,name 'citites' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'citites' is not defined
+TypeError,ci_lower() missing 1 required positional argument: 'level'
+AttributeError,'ellipsis' object has no attribute 'show'
+AttributeError,'ellipsis' object has no attribute 'show'
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+AttributeError,'ellipsis' object has no attribute 'show'
+AttributeError,'ellipsis' object has no attribute 'show'
+AttributeError,'ellipsis' object has no attribute 'show'
+NameError,name 'pheonix' is not defined
+ValueError,"label ""Lat"" not in labels ('Date', 'tmax', 'tmin', 'prcp')"
+SyntaxError,"EOL while scanning string literal (1393591283.py, line 3)"
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+ValueError,The column 'Label' contains non-numerical values. A histogram cannot be drawn for this table.
+AttributeError,'Rectangle' object has no property 'bin'
+AttributeError,'Polygon' object has no property 'bin'
+ValueError,The column 'Label' contains non-numerical values. A histogram cannot be drawn for this table.
+AttributeError,'Polygon' object has no property 'bin'
+AttributeError,'Polygon' object has no property 'bin'
+NameError,name 't' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+ValueError,"The column ""Total Precipitataion sum"" is not in the table. The table contains these columns: Year, Total Precipitation sum"
+ValueError,"The column ""Total Precipitataion sum"" is not in the table. The table contains these columns: Year, Total Precipitation sum"
+AttributeError,'numpy.ndarray' object has no attribute 'hist'
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'monthly_increases' is not defined
+NameError,name 'feb_present' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
+NameError,name 'phoenix' is not defined
